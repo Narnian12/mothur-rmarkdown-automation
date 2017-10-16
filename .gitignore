@@ -1,1 +1,7 @@
-# Will update later
+# Ignore most files
+/*
+
+# Except these specific ones
+!r_automation.cpp
+!README.md
+!.gitignore
