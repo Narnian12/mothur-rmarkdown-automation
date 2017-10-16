@@ -1,5 +1,4 @@
 //
-//  main.cpp
 //  R_Analysis_Automation
 //
 //  Created by Peter Sun on 8/21/17.
@@ -8,7 +7,6 @@
 
 #include <string>
 #include <vector>
-#include <fstream>
 
 #include "pca_ra.h"
 
